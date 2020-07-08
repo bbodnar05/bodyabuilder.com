@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(
+    180deg,
+    rgb(144, 144, 144) 0%,
+    rgb(36, 36, 36) 100%
+  );
+  color: #fff;
+  height: 100vh;
+}
+
+.plan {
+  display: flex;
+  justify-content: center;
+}
+
+.day {
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.top {
+  text-align: center;
+}
+.recomendacion {
+  margin: 15px;
+}
